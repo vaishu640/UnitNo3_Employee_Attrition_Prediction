@@ -1,0 +1,1 @@
+Run all cells in `notebooks/employee_attrition_models.ipynb` to generate `evaluation_report.md`, `business_interpretation_report.md`, and charts/model artifacts. These reports are generated from actual notebook run results, not prefilled placeholder scores.

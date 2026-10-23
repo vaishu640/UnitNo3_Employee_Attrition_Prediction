@@ -1,0 +1,4 @@
+Model,Best CV ROC-AUC,Best parameters
+Logistic Regression,0.7036564205177525,"{'model__solver': 'lbfgs', 'model__class_weight': 'balanced', 'model__C': 0.01}"
+Decision Tree,0.7586858500563768,"{'model__min_samples_split': 10, 'model__min_samples_leaf': 8, 'model__max_depth': 4, 'model__criterion': 'log_loss'}"
+Random Forest,0.7741339249353663,"{'model__n_estimators': 150, 'model__min_samples_split': 10, 'model__min_samples_leaf': 4, 'model__max_features': 'log2', 'model__max_depth': 8}"
